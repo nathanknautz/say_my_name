@@ -22,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-run SayMyName::speak.new.run to have the terminal say your user name. its not that exciting.
+run following command to have the terminal say your user name. its not that exciting.
+
+```
+SayMyName::Speak.new.run
+```
 
 ## Development
 
